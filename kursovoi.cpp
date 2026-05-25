@@ -4,7 +4,6 @@
 #include <fstream>
 #include <iostream>
 #include <cstdlib>
-//#include <stdlib.h>
 
 using namespace std;
 int pokol = 0;                                                  // глобальные переменные для поколения и клеток
